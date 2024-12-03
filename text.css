@@ -1,0 +1,6 @@
+Ыbody {
+    background-image: url('img/stars-glitter.gif'); /* путь к изображению с блестками */
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}

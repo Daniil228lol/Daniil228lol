@@ -1,0 +1,10 @@
+.text-container {
+    width: 50%; 
+    margin: 0 auto; 
+}
+
+p {
+    font-size: 35px; 
+    text-align: justify; 
+}
+
